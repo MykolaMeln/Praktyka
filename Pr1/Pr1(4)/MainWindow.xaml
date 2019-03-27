@@ -1,0 +1,21 @@
+﻿<Window x:Class="Pr1_4_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pr1_4_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="415.824" Width="548.529">
+    <Grid Margin="-2,0,2,0">
+        <Button x:Name="Sql" Height="50" Width="200" Margin="39,8,302,327" Click="Sql_Click">Sql Server</Button>
+        <Button x:Name="Access" Height="50" Width="200" Margin="302,8,39,327" Click="Access_Click">Access</Button>
+        <Label Width="100" Height="30" Margin="2,66,439,289">DataBase/Table</Label>
+        <TextBox x:Name="database" Height="30" Margin="100,62,302,293"/>
+        <DataGrid x:Name="show" Margin="0,96,0,0">
+
+
+        </DataGrid>
+        <Label Height="30" Margin="291,66,178,289" Content="Command"/>
+        <TextBox x:Name="command" Height="30" Margin="363,62,39,293"/>
+    </Grid>
+</Window>

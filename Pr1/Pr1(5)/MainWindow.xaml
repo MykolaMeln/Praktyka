@@ -1,0 +1,21 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pr1_5_"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="Pr1_5_.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="229.887" Width="411.902">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="37" Margin="255,10,0,0" VerticalAlignment="Top" Width="129" Background="#FF4B30C3" Click="Button_Click"/>
+        <TextBlock x:Name="res" Margin="10,63,10,10"/>
+        <Label Content="Temperature" HorizontalAlignment="Left" VerticalAlignment="Top" Height="27" Width="83" Margin="10,8,0,0"/>
+        <TextBox x:Name="temper" HorizontalAlignment="Left" Height="23" Margin="106,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Action" HorizontalAlignment="Left" VerticalAlignment="Top" Height="27" Width="83" Margin="10,34,0,0"/>
+        <ComboBox x:Name="action" HorizontalAlignment="Left" Height="23" Margin="106,40,0,0" Text="TextBox" VerticalAlignment="Top" Width="120" >
+            <System:String>Warming</System:String>
+            <System:String>Cooling</System:String>
+        </ComboBox>
+    </Grid>
+</Window>
