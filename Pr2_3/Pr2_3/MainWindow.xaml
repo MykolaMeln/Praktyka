@@ -1,0 +1,33 @@
+﻿<Window x:Class="Pr2_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pr2_3"
+        mc:Ignorable="d"
+        Title="FastFood" Height="321.552" Width="512.031">
+    <Grid Background="#FFEBF5AC" Margin="0,0,2,2">
+        <Label Content="Choice of Pizza" HorizontalAlignment="Left" Height="31" Margin="8,10,0,0" VerticalAlignment="Top" Width="111" FontSize="14"/>
+        <RadioButton x:Name = "veg" Content="Veg-Pizza" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" FontSize="14" GroupName="pizza"/>
+        <RadioButton x:Name = "non_veg" Content="Non-Veg Pizza" HorizontalAlignment="Left" Margin="10,76,0,0" VerticalAlignment="Top" FontSize="14" GroupName="pizza" Checked="non_veg_Checked"/>
+        <Label Content="Choice type of Pizza" HorizontalAlignment="Left" Height="31" Margin="138,10,0,0" VerticalAlignment="Top" Width="140" FontSize="14"/>
+        <RadioButton x:Name="cheeze" Content="Cheeze Pizza" HorizontalAlignment="Left" Margin="150,46,0,0" VerticalAlignment="Top" FontSize="14" GroupName="typepizza"/>
+        <RadioButton x:Name="onion" Content="Onion Pizza" HorizontalAlignment="Left" Margin="150,76,0,0" VerticalAlignment="Top" FontSize="14" GroupName="typepizza"/>
+        <RadioButton x:Name="masala" Content="Masala Pizza" HorizontalAlignment="Left" Margin="150,106,0,0" VerticalAlignment="Top" FontSize="14" GroupName="typepizza"/>
+        <Label Content="Choice size of Pizza" HorizontalAlignment="Left" Height="31" Margin="280,10,0,0" VerticalAlignment="Top" Width="140" FontSize="14"/>
+        <RadioButton x:Name="smallp" Content="Small Pizza" HorizontalAlignment="Left" Margin="300,46,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizepizza"/>
+        <RadioButton x:Name="mediump" Content="Medium Pizza" HorizontalAlignment="Left" Margin="300,76,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizepizza"/>
+        <RadioButton x:Name="largep" Content="Large Pizza" HorizontalAlignment="Left" Margin="300,106,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizepizza"/>
+        <RadioButton x:Name="extra_largep" Content="Extra-Large Pizza" HorizontalAlignment="Left" Margin="300,136,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizepizza"/>
+
+        <Label Content="Choice of ColdDrink" HorizontalAlignment="Left" Height="31" Margin="8,170,0,0" VerticalAlignment="Top" Width="142" FontSize="14"/>
+        <RadioButton x:Name="pepsi" Content="Pepsi" HorizontalAlignment="Left" Margin="10,200,0,0" VerticalAlignment="Top" FontSize="14" GroupName="colddrink"/>
+        <RadioButton x:Name="coke" Content="Coke" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" FontSize="14" GroupName="colddrink"/>
+        <Label Content="Choice size of ColdDrink" HorizontalAlignment="Left" Height="31" Margin="150,170,0,0" VerticalAlignment="Top" Width="169" FontSize="14"/>
+        <RadioButton x:Name="small" Content="Small" HorizontalAlignment="Left" Margin="150,200,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizedrink"/>
+        <RadioButton x:Name="medium" Content="Medium" HorizontalAlignment="Left" Margin="150,230,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizedrink"/>
+        <RadioButton x:Name="large" Content="Large" HorizontalAlignment="Left" Margin="150,260,0,0" VerticalAlignment="Top" FontSize="14" GroupName="sizedrink"/>
+        <Button Content="Зібрати" HorizontalAlignment="Left" Height="51" Margin="327,217,0,0" VerticalAlignment="Top" Width="156" Click="Button_Click"/>
+
+    </Grid>
+</Window>

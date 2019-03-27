@@ -1,0 +1,27 @@
+﻿<Window x:Class="Pr2_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pr2_4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="201.727" Width="239.351">
+    <Grid x:Name="glav" Margin="0,0,2,0">
+        <Slider x:Name="volume" HorizontalAlignment="Left" Margin="-51,73,0,0" VerticalAlignment="Top" Height="32" Width="148" RenderTransformOrigin="0.5,0.5" Maximum="100" ValueChanged="volume_ValueChanged">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.196"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <RadioButton x:Name="vol1" GroupName="volum" Content="Звук1" HorizontalAlignment="Left" Height="22" Margin="43,17,0,0" VerticalAlignment="Top" Width="81"/>
+        <RadioButton x:Name="vol2"  GroupName="volum" Content="Звук2" HorizontalAlignment="Left" Height="22" Margin="43,39,0,0" VerticalAlignment="Top" Width="81"/>
+        <RadioButton x:Name="vol3" GroupName="volum" Content="Звук3" HorizontalAlignment="Left" Height="22" Margin="43,63,0,0" VerticalAlignment="Top" Width="81"/>
+        <RadioButton x:Name="vol4" GroupName="volum" Content="Звук4" HorizontalAlignment="Left" Height="22" Margin="43,88,0,0" VerticalAlignment="Top" Width="81"/>
+        <DataGrid x:Name="data" HorizontalAlignment="Left" Height="155" VerticalAlignment="Top" Width="119" Margin="105,10,0,0"/>
+
+    </Grid>
+</Window>

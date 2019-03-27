@@ -1,0 +1,13 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.pdb
+E:\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.exe.config
+E:\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.exe
+E:\C#\2 Семестр\Pr3(1)\DomZavd\bin\Debug\DomZavd.pdb
+E:\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.csprojAssemblyReference.cache
+E:\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.csproj.CoreCompileInputs.cache
+E:\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.exe
+E:\C#\2 Семестр\Pr3(1)\DomZavd\obj\Debug\DomZavd.pdb

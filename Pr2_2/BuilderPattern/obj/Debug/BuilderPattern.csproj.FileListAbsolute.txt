@@ -1,0 +1,11 @@
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.MainForm.resources
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.Properties.Resources.resources
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.Classes.Robot.resources
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.Resources.Images.resources
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.GenerateResource.cache
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\Ноут\Desktop\BuilderPattern1\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
