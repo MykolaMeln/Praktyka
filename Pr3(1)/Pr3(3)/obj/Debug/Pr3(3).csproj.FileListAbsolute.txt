@@ -1,0 +1,14 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).pdb
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).exe.config
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).exe
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\bin\Debug\Pr3(3).pdb
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).csprojAssemblyReference.cache
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).csproj.CoreCompileInputs.cache
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).exe
+E:\C#\2 Семестр\Pr3(1)\Pr3(3)\obj\Debug\Pr3(3).pdb
