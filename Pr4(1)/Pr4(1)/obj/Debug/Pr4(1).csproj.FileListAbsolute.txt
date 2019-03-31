@@ -1,0 +1,7 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\bin\Debug\Pr4(1).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\bin\Debug\Pr4(1).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\bin\Debug\Pr4(1).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\obj\Debug\Pr4(1).csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\obj\Debug\Pr4(1).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\obj\Debug\Pr4(1).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr4(1)\Pr4(1)\obj\Debug\Pr4(1).pdb

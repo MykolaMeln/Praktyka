@@ -1,0 +1,7 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\bin\Debug\Pr5(2).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\bin\Debug\Pr5(2).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\bin\Debug\Pr5(2).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\obj\Debug\Pr5(2).csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\obj\Debug\Pr5(2).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\obj\Debug\Pr5(2).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(2)\obj\Debug\Pr5(2).pdb

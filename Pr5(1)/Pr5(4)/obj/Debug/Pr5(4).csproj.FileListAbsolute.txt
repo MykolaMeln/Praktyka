@@ -1,0 +1,15 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\bin\Debug\Pr5(4).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\bin\Debug\Pr5(4).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\bin\Debug\Pr5(4).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\MainWindow.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\App.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4)_MarkupCompile.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4)_MarkupCompile.lref
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\MainWindow.baml
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).g.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5_4_.Properties.Resources.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).csproj.GenerateResource.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Pr5(1)\Pr5(4)\obj\Debug\Pr5(4).pdb
