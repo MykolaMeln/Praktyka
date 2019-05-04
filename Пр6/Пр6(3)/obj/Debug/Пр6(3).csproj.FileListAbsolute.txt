@@ -1,0 +1,15 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).csprojAssemblyReference.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\MainWindow.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\App.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3)_MarkupCompile.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3)_MarkupCompile.lref
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\bin\Debug\Пр6(3).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\bin\Debug\Пр6(3).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\bin\Debug\Пр6(3).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\MainWindow.baml
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).g.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6_3_.Properties.Resources.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).csproj.GenerateResource.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(3)\obj\Debug\Пр6(3).pdb

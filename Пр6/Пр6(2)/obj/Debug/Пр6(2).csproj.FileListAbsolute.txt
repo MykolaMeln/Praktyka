@@ -1,0 +1,14 @@
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\bin\Debug\Пр6(2).exe.config
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\bin\Debug\Пр6(2).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\bin\Debug\Пр6(2).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\App.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2)_MarkupCompile.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2)_MarkupCompile.lref
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2).g.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6_2_.Properties.Resources.resources
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2).csproj.GenerateResource.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2).csproj.CoreCompileInputs.cache
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2).exe
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\Пр6(2).pdb
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\MainWindow2.g.cs
+C:\Users\Ноут\Desktop\C#\2 Семестр\Пр6\Пр6(2)\obj\Debug\MainWindow2.baml
